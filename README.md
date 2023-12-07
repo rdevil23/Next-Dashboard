@@ -1,7 +1,22 @@
 ## Next.js App Router Course - Starter
 
-Learning Next.js
+Learning Next.js with [Next.js App Router Course](https://nextjs.org/learn).
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Instruction
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+### Install
+
+```bash
+$ npm i
+```
+
+### Run
+
+```bash
+$ npm run dev
+```
+
+### Use to login
+
+Email: user@nextmail.com
+Password: 123456
